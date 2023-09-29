@@ -1,5 +1,5 @@
 ---
-title: Bonus: Open Science
+title: Open Science
 teaching: 5
 exercises: 5
 questions:
