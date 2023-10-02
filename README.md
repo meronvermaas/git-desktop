@@ -2,6 +2,6 @@ git-novice
 ==========
 
 An introduction to version control for novices using Git using GitHub Desktop.
-Please see <meronvermaas.github.io/git-desktop/> for a rendered version of this material,
+Please see https://meronvermaas.github.io/git-desktop for a rendered version of this material,
 
 This is not an official Software Carpentry lesson, although it is based on one.
