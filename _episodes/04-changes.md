@@ -18,7 +18,7 @@ You should now have a `survey_data` repository on your desktop.
 
 Drag `survey_data_cleaned.csv`, which was the end result of the Data Organization lesson.
 
-You can also download this file [here](https://raw.githubusercontent.com/caltechlibrary/git-desktop/gh-pages/data/survey_data_cleaned.csv)
+You can also download this file [here](https://github.com/danieleavitabile/project-template/archive/refs/heads/main.zip)
 
 You'll see that GitHub Desktop has changed to signify that a new file has been added. The left hand panel, which shows changes that have occurred in the repository, lists the new file.  It knows this is a new file that it will have to add to the repository, as indicated by the green plus sign.  In addition, contents of the file applear in green in the right hand panel, which provides details about the changes.  
 
